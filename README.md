@@ -49,19 +49,6 @@ The Global Vectors for Word Representation (GloVe) stands as a widely embraced w
 GloVe excels in capturing both syntactic and semantic relationships among words, rendering it invaluable for various natural language processing tasks, including word similarity computation, text classification, and machine translation. Known for its simplicity, efficiency, and effectiveness, GloVe has garnered widespread adoption in both academic and industrial settings. Pre-trained GloVe word vectors are readily available for multiple languages, seamlessly integrated into machine learning models, thereby fostering advancements in language understanding and text analysis.
 
 
-
-Below are the modifications I will make for Project 1:
-
-1. Rename the corresponding repo on Github to: evadb_New_Recommendation.
-
-2. Convert the code from an ipynb file format to separate Python files. The expected approach is as follows:
-
-   Build a web application that provides news recommendation services. Utilize Pinecone SDK, EvaDB, and Python Flask to develop the backend application, abstracting the functions from the ipynb file into a service. The frontend will use HTML, static CSS, and JS resources for construction.
-
-3. Import the necessary packages and environment for building the program into a requirement.txt file or develop it directly as a Docker image.
-
-4. Enhance Readme.md by adding detailed instructions for application startup, environment setup, and a tutorial on how to use the web application.
-
 ____________
 
 
