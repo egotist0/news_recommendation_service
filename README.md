@@ -26,7 +26,7 @@ The article data is derived from [kaggle](https://www.kaggle.com/datasets/snapcr
 
 This project exclusively focuses on the "articles1.csv" file within the dataset, containing 50,000 news articles (Articles 1-50,000). The file encompasses various attributes, including:
 
-![photo1](/Users/egotist/Georgia Tech/CS 6422/EvaDB_Proj/Photo/photo1.png)
+![photo1](https://github.com/egotist0/news_recommendation_service/tree/master/Photo/photo1.png)
 
 _____________
 
@@ -223,15 +223,15 @@ ___________
 
 + Homepage
 
-  ![2](/Users/egotist/Georgia Tech/CS 6422/EvaDB_Proj/Photo/2.png)
+  ![2](https://github.com/egotist0/news_recommendation_service/tree/master/Photo/2.png)
 
 + Select any articles you like in initial recommentation
 
-  ![2](/Users/egotist/Georgia Tech/CS 6422/EvaDB_Proj/Photo/3.png)
+  ![2](https://github.com/egotist0/news_recommendation_service/tree/master/Photo/3.png)
 
 + Tap ==Submit== to get recommentation News and select new interested articles
 
-  ![2](/Users/egotist/Georgia Tech/CS 6422/EvaDB_Proj/Photo/4.png)
+  ![2](https://github.com/egotist0/news_recommendation_service/tree/master/Photo/4.png)
 
 ________
 
